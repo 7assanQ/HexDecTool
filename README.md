@@ -10,6 +10,8 @@
   - First download the Hex_Dec_Bin_Tool.exe file and run it if on Windows.
   - OR run the source code Hex_Dec_Tool_v2.1.py (need the following Libraries to run the code if the source code Hex_Dec_Tool_v2.1.py is used. check the libraries section).
   
+---
+
   - Once the tool is runnning it will provide 10 options.
   - Option 0 to exit the tool.
   - Option 1 Decimal to binary number.
@@ -43,7 +45,7 @@
   - Option 8 Binary XOR
   
 ---
----
+
 # Libraries needed for running the source code Hex_Dec_Tool_v2.1.py
 
 - OS library but it will already be installed once Python is installed. (To install Python check any tutorial online)
