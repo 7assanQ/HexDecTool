@@ -12,7 +12,7 @@
   
 ---
 
-  - Once the tool is runnning it will provide 10 options.
+- Once the tool is runnning it will provide 10 options.
   - Option 0 to exit the tool.
   - Option 1 Decimal to binary number.
   - Option 2 Decimal to hexadecimal number.
