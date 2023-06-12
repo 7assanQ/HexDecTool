@@ -20,11 +20,11 @@
   - Option 4 Hexadecimal to decimal number.
   - Option 5 Binary to decimal number.
   - Option 6 Binary to hexadecimal number.
-  - Option 7 Print decimal, binary and hexadcimal number.
+  - Option 7 Print decimal, binary and hexadcimal numbers.
   - Option 8 Addition, Subtraction Menu.
   - Option 9 Logic operations Menu.
   
-- Option 8 will 7 more options.
+- Option 8 will show 7 more options.
   - Option 0 Go Back to The Main Menu
   - Option 1 Decimal Addition
   - Option 2 Decimal Subtraction
@@ -33,7 +33,7 @@
   - Option 5 Binary Addition
   - Option 6 Binary Subtractio
 
-- Option 9 will 9 more options.
+- Option 9 will show 9 more options.
   - Option 0 Go Back to The Main Menu
   - Option 1 Hexadecimal AND
   - Option 2 Hexadecimal OR
