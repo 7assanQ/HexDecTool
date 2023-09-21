@@ -2,14 +2,33 @@
 
 **A tool to help converting between hexadecimal, decimal, and binary numbers**
 
-![Toolicon](HexDecBin.ico)
+![Toolicon](assets/HexDecBin.ico)
 
 ---
 
 - To use the tool
-  - First download the Hex_Dec_Bin_Tool.exe file and run it if on Windows.
-  - OR run the source code Hex_Dec_Tool_v2.1.py (need the following Libraries to run the code if the source code Hex_Dec_Tool_v2.1.py is used. check the libraries section).
+  - First download the Hex_Dec_Bin_Tool_v3.exe file and run it if on Windows.
+  - OR run the source code Hex_Dec_Tool_v3.py (need the following Libraries to run the code if the source code Hex_Dec_Tool_v2.1.py is used. check the libraries section).
   
+---
+- Start
+![start](assets/start.png)
+
+- option 7
+![start](assets/option7.png)
+
+- option 8
+![start](assets/option8.png)
+
+- option 9
+![start](assets/option9.png)
+
+- option 10
+![start](assets/option10.png)
+
+- Binary AND operation
+![start](assets/binary_AND.png)
+
 ---
 
 - Once the tool is runnning it will provide 10 options.
@@ -43,6 +62,13 @@
   - Option 6 Binary OR
   - Option 7 Binary NOT
   - Option 8 Binary XOR
+  
+- Option 10 will show 4 more options.
+  - Option 0 Go Back to The Main Menu
+  - Option 1 Hexadecimal right shift
+  - Option 2 Hexadecimal left shift
+  - Option 3 Binary right shift
+  - Option 4 Binary left shift 
   
 ---
 
