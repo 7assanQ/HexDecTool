@@ -12,22 +12,22 @@
   
 ---
 - Start
-![start](assets/start.png)
+-![start](assets/start.png)
 
-- option 7
-![start](assets/option7.png)
+- Option 7
+- ![start](assets/option7.png)
 
-- option 8
-![start](assets/option8.png)
+- Option 8
+- ![start](assets/option8.png)
 
-- option 9
-![start](assets/option9.png)
+- Option 9
+- ![start](assets/option9.png)
 
-- option 10
-![start](assets/option10.png)
+- Option 10
+- ![start](assets/option10.png)
 
-- Binary AND operation
-![start](assets/binary_AND.png)
+- Testing binary AND operation
+- ![start](assets/binary_AND.png)
 
 ---
 
